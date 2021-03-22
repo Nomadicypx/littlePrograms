@@ -1,6 +1,6 @@
 # littlePrograms
 这个仓库存放一些小的工具程序
-* installFonts.py文件主要供我集中存放一些媒体资源文件
+## installFonts.py文件主要供我集中存放一些媒体资源文件
 * 分为两个部分：
   * 第一部分：递归扫描文件夹内所有指定文件类型的文件存放到list中
   * 第二部分：shutil函数copy所有内容到指定文件夹
