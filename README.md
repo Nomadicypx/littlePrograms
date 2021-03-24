@@ -1,7 +1,10 @@
 # littlePrograms
-这个仓库存放一些小的工具程序
+这个仓库存放一些小的工具程序Cancel Changes
 ## installFonts.py文件主要供我集中存放一些媒体资源文件
 * 分为两个部分：
   * 第一部分：递归扫描文件夹内所有指定文件类型的文件存放到list中
   * 第二部分：shutil函数copy所有内容到指定文件夹
   * 注意：有的文件需要权限访问：可以通过管理员权限启动pycharm或者手动操作
+## RandomPick.py文件主要供我助教工作中随机抽取学生名单
+* 随机数生成random.randomrange(a,b)(a,b都在抽取范围内)
+* pandas读文件，pd对象输出
