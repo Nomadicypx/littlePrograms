@@ -17,7 +17,7 @@ df = pd.read_excel(inputPath,sheet_name=0,header=1)
 columns = df.shape[0]
 set = randomPick(number,columns)
 setlist = list(set)
-print(df.iloc[setlist,0:3])
+print(df.iloc[setlist,0:3])#输出
 
 
 
